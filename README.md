@@ -9,3 +9,18 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+
+var word
+word = 'bird'
+
+console.log(word) 
+
+class Dog
+  def name=(dog_name)
+    this_dogs_name = dog_name
+  end
+ 
+  def name
+    this_dogs_name
+  end
+end
